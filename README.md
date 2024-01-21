@@ -4,8 +4,7 @@ Neste projeto foram implementadas análises a partir de um conjunto de dados sob
 
 Os dados foram extraídos do site Glassdoor e obtidos através do Kaggle, uma plataforma disponiblizando conjuntos de dados para cientistas de dados.
 
-🚵 Habilidades que foram trabalhadas:
-
+  <summary><strong>🛠 🚵 Habilidades utilizadas</strong></summary><br />   
 <p>Utilizar o terminal interativo do Python.</p>
 <p>Utilizar estruturas condicionais e de repetição.</p>
 <p>Utilizar funções built-in do Python.</p>
@@ -13,7 +12,7 @@ Os dados foram extraídos do site Glassdoor e obtidos através do Kaggle, uma pl
 <p>Realizar a manipulação de arquivos.</p>
 <p>Escrever funções.</p>
 <p>Escrever testes com Pytest.</p>
-<p>Escrever seus próprios módulos e importá-los em outros códigos.</p>
+<p>Escrever meus próprios módulos e importá-los em outros códigos.</p>
 
 <summary><strong>🏕️ Ambiente Virtual</strong></summary><br />
   O Python oferece um recurso chamado de ambiente virtual, onde permite sua máquina rodar sem conflitos, diferentes tipos de projetos com diferentes versões de bibliotecas.
@@ -37,9 +36,9 @@ Os dados foram extraídos do site Glassdoor e obtidos através do Kaggle, uma pl
   ```
 
   Com o seu ambiente virtual ativo, as dependências serão instaladas neste ambiente.
-  Quando precisar desativar o ambiente virtual, execute o comando "deactivate". Lembre-se de ativar novamente quando voltar a trabalhar no projeto.
+  Quando precisar desativar o ambiente virtual, execute o comando "deactivate".
 
-  O arquivo `dev-requirements.txt` contém todas as dependências que serão utilizadas no projeto, ele está agindo como se fosse um `package.json` de um projeto `Node.js`.
+  O arquivo `dev-requirements.txt` contém todas as dependências que serão utilizadas, ele está agindo como se fosse um `package.json` de um projeto `Node.js`.
 </details>
 
 <details>
